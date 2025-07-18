@@ -9,21 +9,21 @@ namespace array
     {
         static void Main(string[] args)
         {
-            //oneD();
-           //twoD();
+            oneD();
+            twoD();
             jagged();
         }
         public static void oneD()
         {
-            //int [] a=new int[4];
-            //a[0] = 10;
-            //a[1] = 20;
-            //a[2] = 30;
-            //a[3] = 40;
-            //Console.WriteLine(a.Length);
+            int [] a=new int[4];
+            a[0] = 10;
+            a[1] = 20;
+            a[2] = 30;
+            a[3] = 40;
+            Console.WriteLine(a.Length);
 
-            //int[] a = new int[] { 10, 20, 30, 10 };
-            //Console.WriteLine(a.Length);
+            int[] b = new int[] { 10, 20, 30, 10 };
+            Console.WriteLine(b.Length);
              
         }
         static void twoD()
