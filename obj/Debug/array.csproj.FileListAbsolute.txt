@@ -1,0 +1,5 @@
+C:\Users\roots\Desktop\karthika\karthika2\array\bin\Debug\array.exe
+C:\Users\roots\Desktop\karthika\karthika2\array\bin\Debug\array.pdb
+C:\Users\roots\Desktop\karthika\karthika2\array\obj\Debug\array.exe
+C:\Users\roots\Desktop\karthika\karthika2\array\obj\Debug\array.pdb
+C:\Users\roots\Desktop\karthika\karthika2\array\obj\Debug\array.csprojResolveAssemblyReference.cache
